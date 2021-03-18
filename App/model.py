@@ -394,3 +394,4 @@ def compareYears(year1, year2):
         return 1
     else:
         return 0
+
